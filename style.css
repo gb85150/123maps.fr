@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
+/* RÃ©digez vos commentaires CSS ici */
+.liens {
+  color: red;
+  font-family: cursive, "Comic Sans MS", "Times New Roman", arial, sans-serif;
+  display: block;
+  float: right;
+  width: 15%;
+}
+.black {
+  color: red;
+  font-family: cursive;
+}
+
+.image {
+  float: right;
+}
+p, #rules {
+  color: Black;
+  font-size: 1.5em;
+  font-family: 'Black Ops One', cursive;
+}
+body {
+  background: url(fond_du_site.jpg) repeat fixed;
+  cursor: url(Normal.cur), default;
+}
+h1 {
+  border: 3px solid white;
+  background: rgba(255, 255, 255, 0.5);
+}
+#page {
+  background: rgba(255, 255, 255, 0.7);
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 20%;
+  margin-bottom: 10%;
+  padding: 20px;
+  border: 3px solid white;
+}
+a {
+  background: #36b030;
+  border-radius: 7px;
+  padding: 10px;
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+  display: inline-block;
+}
+a:hover {
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=24088), default;
+}
+a:visited {
+  color: white;
+}
+.form {
+  border-radius: 7px;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  display: inline-block;
+}
